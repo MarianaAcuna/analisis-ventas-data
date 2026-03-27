@@ -44,9 +44,9 @@ A continuación se muestran algunas visualizaciones del análisis:
 ![Dashboard](powerbi/image/Dashboard-gráfico-líneas.png)
 
 
----
 
-## 📈 Principales análisis
+
+## Principales análisis
 
 * Ventas por año, trimestre y mes
 * Ventas por región
@@ -54,29 +54,10 @@ A continuación se muestran algunas visualizaciones del análisis:
 * Ticket promedio
 * Total de unidades
 
----
 
-## 🎯 Conclusión
+
+## Conclusión
 
 El análisis permite identificar patrones de venta y apoyar la toma de decisiones estratégicas sobre productos, categorías y comportamiento temporal.
 
----
 
-## 🚀 Cómo ejecutar el proyecto
-
-1. Clonar el repositorio
-2. Instalar dependencias:
-
-```
-pip install -r requirements.txt
-```
-
-3. Ejecutar carga de datos:
-
-```
-python scripts/cargar_datos.py
-```
-
-4. Conectar Power BI a la base de datos
-
----
